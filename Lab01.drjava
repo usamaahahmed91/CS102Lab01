@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="Classes/" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="IntBagMain.java" package="" timestamp="14-Feb-2018 10:50:21">
+        <select from="3679" to="3679"/>
+        <scroll column="1696" row="0"/>
+      </file>
+      <file name="PrimeNumbers.java" package="" timestamp="14-Feb-2018 16:45:49">
+        <select from="3679" to="3679"/>
+        <scroll column="1696" row="0"/>
+      </file>
+      <file name="IntBag.java" package="" timestamp="14-Feb-2018 16:49:25">
+        <select from="3679" to="3679"/>
+        <scroll column="1696" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
